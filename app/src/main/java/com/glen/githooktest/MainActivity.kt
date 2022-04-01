@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // Main 1
         // Main 2
+        // Main 3
     }
 }
